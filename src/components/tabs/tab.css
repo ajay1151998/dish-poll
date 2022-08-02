@@ -1,0 +1,27 @@
+
+body{
+  background-color: blanchedalmond;
+}
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  color:blue;
+   
+}
+.tabs-container .nav {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.tabs-container .nav-item {
+  border: 1px solid red;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background: linear-gradient(45deg ,red, blue);
+  
+}
