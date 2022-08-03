@@ -9,9 +9,8 @@ FOLDER STRUCTURES 📁
 Dish-poll
 
   -->public📁
-
+  
        -->index.html
-
   -->src📁
   
       -->actions📁
