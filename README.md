@@ -1,70 +1,120 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dishes-Poll
 
-## Available Scripts
+preview : https://dish-poll.vercel.app/login
 
-In the project directory, you can run:
 
-### `npm start`
+FOLDER STRUCTURES 📁
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Dish-poll
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  -->public📁
 
-### `npm test`
+       -->index.html
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  -->src📁
+  
+      -->actions📁
+           -->actionType.js
+      -->components📁
+           -->dishes📁
+                -->dishes.jsx
+                -->dishesList.jsx
+                -->header.jsx
+                -->style.css
+           -->login📁
+                -->login.jsx
+                -->login.jsx
+           -->tabs📁
+                -->tab.jsx
+                -->tab.css
+           -->result.js
+           -->selectedDish.js
+      -->reducer📁
+            -->dishReducer.js
+            -->votesReducer.js
+      -->App.css
+      -->App.js
+      -->App.test.js
+      -->index.css
+      -->index.js
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Skill's
 
-### `npm run eject`
+-- Javascript
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+--React Js
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+--Redux
+## Acknowledgements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Ajay Mahato](https://github.com/ajay1151998)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Badges
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-### Analyzing the Bundle Size
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions are always welcome!
 
-### Advanced Configuration
+See `contributing.md` for ways to get started.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Please adhere to this project's `code of conduct`.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🚀 About Me
+I'm a frontend developer...
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Other Common Github Profile Sections
+👩‍💻 I'm Looking For Job....
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## 🛠 Skills
+HTML, CSS , JS,JSX , React Js
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Support
+
+For support, email ajaymahato973@gmail.com .
+
